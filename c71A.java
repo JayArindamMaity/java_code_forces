@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class seventy_one_a {
+public class c71A {
   public static void main(String [] args){
     java.util.Scanner sc = new Scanner(System.in);
     int runner;
@@ -13,3 +13,4 @@ public class seventy_one_a {
     sc.close();
   }
 }
+
